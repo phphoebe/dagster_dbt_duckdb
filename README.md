@@ -52,7 +52,7 @@ The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
 ### dbt assets in the Asset graph
 
-<img src="./images/2-dbt-assets.png" width=80% height=80%>
+<img src="./images/2-dbt-assets.png">
 
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
 
