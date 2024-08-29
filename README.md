@@ -46,4 +46,16 @@ Once your Dagster Daemon is running, you can start turning on schedules and sens
 
 The easiest way to deploy your Dagster project is to use Dagster Cloud.
 
+### Successful Deployment
+
+<img src="./images/1-successful-deployment.png">
+
+### dbt assets in the Asset graph
+
+<img src="./images/2-dbt-assets.png" width=80% height=80%>
+
 Check out the [Dagster Cloud Documentation](https://docs.dagster.cloud) to learn more.
+
+___
+
+<img src="./images/0-certificate-of-completion.png">
